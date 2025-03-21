@@ -120,8 +120,6 @@ As bibliotecas utilizadas no projeto estão listadas em `requirements.txt`:
 ```txt
 pandas
 matplotlib
-seaborn
-numpy
 jupyter
 ```
 
